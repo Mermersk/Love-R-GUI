@@ -6,7 +6,7 @@ function love.conf(t)
     t.author = "Mermersk - Ísak Steingrímsson"
 
     t.window.resizable = true
-    t.window.minwidth = 800
+    t.window.minwidth = 400
     t.window.minheight = 400
 
 end
